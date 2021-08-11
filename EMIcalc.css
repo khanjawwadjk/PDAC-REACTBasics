@@ -1,0 +1,26 @@
+.info {
+  height: 500px;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+.calc {
+  background-color: #e99444 !important;
+  margin: 20px;
+  /* width: 50px; */
+  padding-left: 300px;
+}
+.form-control {
+  margin: 20px;
+}
+.login {
+  width: 200px;
+  margin: 30px;
+}
+
+h3 {
+  margin: 20px;
+  padding: 10px;
+  color: white;
+  background-color: black;
+}
